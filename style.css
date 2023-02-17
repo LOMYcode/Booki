@@ -186,10 +186,9 @@ h2{
   }
   .accomodations-section img{
     object-fit: cover;
-    width: 100%;
+    width: 95%;
     height: 120px;
     border-radius: 20px 20px 0 0;
-    padding-right: 10px;
     margin: 5px 0 0 5px;
   }
   .accomodations-section .card-picture{
@@ -265,9 +264,9 @@ h2{
 .popular-section img{
     object-fit: cover;
     height: 140px;
-    width: 110px;
+    width: 50%;
     border-radius: 20px 0 0 20px;
-    padding: 3%;
+    padding: 3% 0 3% 3%;
 }
 .popular-section .text-picture{
     margin-top: 10px;
@@ -481,7 +480,7 @@ h2{
 
       /* SEARCHBAR */
       .search-bar input{
-        width: 300px;
+        width: 100%;
         font-size: 100%;
       }
       .search-bar .search{
@@ -496,11 +495,11 @@ h2{
         background: #0065fc;
         color: white;
         cursor: pointer;
-        width: 90px;
+        width: 20%;
         margin-left: -10px;
       }
        .search-bar h1{
-        font-size: 200%;
+        font-size: 150%;
       }
       .search-bar p{
         font-size: 120%;
@@ -567,6 +566,7 @@ h2{
       .accomodations-section img{
         object-fit: cover;
         height: 180px;
+        width: 98%;
       }
       .accomodations-section .bloc2{
         justify-content: start;
@@ -591,8 +591,8 @@ h2{
         margin: 0 0 15px 0 ;
       }
       .popular-section img{
-        height: 150px;
-        width: 200px;
+        height: 140px;
+        width: 160px;
         padding: 1%;
         object-fit: cover;
       }
@@ -600,7 +600,7 @@ h2{
         margin-left: 10px;
       }
       .popular-section h4{
-        font-size: 119%;
+        font-size: 100%;
       }
       .popular-section p{
         font-size: 100%;
