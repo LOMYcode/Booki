@@ -113,7 +113,7 @@ h2{
     display: flex;
     align-items: center;
     height: 50px;
-    padding-right: 30px;
+    padding-right: 20px;
     border: 2px solid var(--grey);
     border-radius: 30px;
     margin-right: 10px;
@@ -550,6 +550,7 @@ h2{
      }
     .filters-icon .filters{
       margin-bottom: 10px;
+      font-size: 96%;
     }
 
      /* INFO */
